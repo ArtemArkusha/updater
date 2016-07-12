@@ -9,3 +9,16 @@ D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater\lepnina_updater\obj\Re
 D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater\lepnina_updater\obj\Release\lepnina_updater.exe
 D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater\lepnina_updater\obj\Release\lepnina_updater.pdb
 D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater\lepnina_updater\obj\Release\lepnina_updater.csprojResolveAssemblyReference.cache
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\bin\Release\lepnina_updater.exe.config
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.exe
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.pdb
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\bin\Release\lepnina_updater.exe
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\bin\Release\lepnina_updater.pdb
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\bin\Release\EPPlus.dll
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\bin\Release\EPPlus.xml
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.csprojResolveAssemblyReference.cache
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.Lepnina_updater.resources
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.Form2.resources
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.Form3.resources
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.Properties.Resources.resources
+D:\Users\A R T E M\ШАГ\!ЕРМИТАЖ\lepnina_updater - копия\lepnina_updater\obj\Release\lepnina_updater.csproj.GenerateResource.Cache

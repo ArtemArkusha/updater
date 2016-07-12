@@ -21,5 +21,16 @@ namespace lepnina_updater
             this.price = this.price.Replace(a, b);
         }
 
+        public void change_price_format_space()
+        {
+            string[] arr = this.price.Split();
+            this.price = "";
+            for (int i = 0; i < arr.Length; i++)
+            {
+                this.price += arr[i];
+            }
+        }             
+
+
     }
 }

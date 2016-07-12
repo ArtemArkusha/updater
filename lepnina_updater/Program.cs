@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace lepnina_updater
 {
+   // public delegate void ParameterizedThreadStart(object obj);
     static class Program
     {
         /// <summary>
@@ -15,9 +16,10 @@ namespace lepnina_updater
         static void Main()
         {
             Application.EnableVisualStyles();
-           
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Lepnina_updater());
+          
+          
         }
     }
 }
